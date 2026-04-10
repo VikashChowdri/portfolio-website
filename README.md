@@ -1,1 +1,1 @@
-# portfolio-website
+A personal portfolio website to showcase my projects, skills, and experience as a Computer Science student.
